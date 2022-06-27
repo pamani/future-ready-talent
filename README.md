@@ -34,7 +34,7 @@ HEALTHILY BOT
 
 # Project Video
 
-link:- https://drive.google.com/drive/my-drive
+link:- https://drive.google.com/file/d/1CisTNibDnvD1M1lYzKPDWNWHwTaQD_Fo/view?usp=sharing
 
 # Project working link
 

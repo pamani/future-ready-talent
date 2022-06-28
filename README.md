@@ -1,3 +1,23 @@
+# About Future Ready Talent Internship
+
+Future Ready Talent is a virtual internship platform with an opportunity to learn the in-demand azure cloud & security skills aligned to industry needs.
+
+The program aims at preparing learners work towards solving business challenges and creating innovative solutions using the power of Microsoft Azure & GitHub tools.
+
+# About Microsoft Azure
+
+The Azure cloud platform is more than 200 products and cloud services designed to help you bring new solutions to life—to solve today’s challenges and create the future. 
+
+Build, run and manage applications across multiple clouds, on-premises and at the edge, with the tools and frameworks of your choice.
+
+# About Helth Bot
+
+Azure Health Bot empowers developers in healthcare organizations to build and deploy AI-powered, compliant, conversational healthcare experiences at scale.
+
+It combines built-in medical database with natural language capabilities to understand clinical terminology and can be easily customized to support your organization's clinical use cases. 
+
+The service ensures alignment with industry compliance requirements and is privacy protected to HIPAA standards.
+
 
 # Industry
 

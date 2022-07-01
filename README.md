@@ -10,13 +10,6 @@ link:- https://thankful-ground-01982ed00.1.azurestaticapps.net/
 
 ![image](https://user-images.githubusercontent.com/108118328/176857612-e956b00a-acf1-438d-8c4c-689d2edf2a64.png)
 
-
-
-
-
-
-
-
 # About Future Ready Talent Internship
 
 Future Ready Talent is a virtual internship platform with an opportunity to learn the in-demand azure cloud & security skills aligned to industry needs.

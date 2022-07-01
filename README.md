@@ -1,3 +1,19 @@
+# Project Video
+
+link:- https://drive.google.com/file/d/1CisTNibDnvD1M1lYzKPDWNWHwTaQD_Fo/view?usp=sharing
+
+# Project working link
+
+link:- https://thankful-ground-01982ed00.1.azurestaticapps.net/
+
+# Project screenshot
+
+
+
+
+
+
+
 # About Future Ready Talent Internship
 
 Future Ready Talent is a virtual internship platform with an opportunity to learn the in-demand azure cloud & security skills aligned to industry needs.
@@ -52,11 +68,4 @@ HEALTHILY BOT
 
 -->With the help of azure service it will more effective and easy to implement for user and creator too.
 
-# Project Video
-
-link:- https://drive.google.com/file/d/1CisTNibDnvD1M1lYzKPDWNWHwTaQD_Fo/view?usp=sharing
-
-# Project working link
-
-link:- https://ghattu02.github.io/future-ready-talent/
 

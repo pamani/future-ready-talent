@@ -22,7 +22,7 @@ The Azure cloud platform is more than 200 products and cloud services designed t
 
 Build, run and manage applications across multiple clouds, on-premises and at the edge, with the tools and frameworks of your choice.
 
-# About Helth Bot
+# About Health Bot
 
 Azure Health Bot empowers developers in healthcare organizations to build and deploy AI-powered, compliant, conversational healthcare experiences at scale.
 

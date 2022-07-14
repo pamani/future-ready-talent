@@ -3,10 +3,7 @@
     <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
 </head>
 <body>
-    <div>
-    </div>
-    <div>
-  <div style="height: 60%; width: 40%; margin-top:5%; margin-left:10%" id="webchat" role="main"></div>
+  <div style="height: 100%; width: 100%; margin-top:0%; margin-left:0%" id="webchat" role="main"></div>
   <script>
      
      // Set  the CSS rules.
@@ -34,11 +31,10 @@
 
     window.WebChat.renderWebChat({
       directLine: window.WebChat.createDirectLine({
-          token: 'r5Mc5AWMSfI.FwwMuSaOqY2oGkAv-XljmjnBOzJ3TxWngyIOPkz4mmc'}),
+          token: '<Your Direct Line token>'}),
       styleSet,
       styleOptions: avatarOptions
     }, document.getElementById('webchat'));
     
   </script>
-    </div>
 </body>

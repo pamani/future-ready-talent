@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
         <title>HEALTH-CARE BOT</title>
         <style>
             h1{
@@ -18,9 +19,22 @@
             
         </h1>
         <center>
-       
+       <div style="height: 60%; width: 40%; margin-top:5%; margin-left:10%" id="webchat" role="main"></div>
+        <script>
+     // Set  the CSS rules.
+     const styleSet = window.WebChat.createStyleSet({
+         rootHeight: '100%',
+         rootWidth: '50%',
+         backgroundColor: 'paleturquoise'
+      });
+
+    window.WebChat.renderWebChat({
+      directLine: window.WebChat.createDirectLine({
+          token: 'T6TBID_pMEo.XGtJdUVw6TDdwpbumq5cFG8cIkat81kUgxYZiQcAA4g'}),
+      styleSet
+    }, document.getElementById('webchat'));
     
-            <iframe src='https://healthcare-bot-6k2zlo73uk6hy.azurewebsites.net/'  style='min-width: 400px; width: 50%; min-height: 500px;'></iframe>
+  </script>
     </center>
    
     </body>

@@ -1,44 +1,27 @@
 <!DOCTYPE html>
-<head>
-    <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
-</head>
-<body>
-    <div>
-    </div>
-    <div>
-  <div style="height: 60%; width: 40%; margin-top:5%; margin-left:10%" id="webchat" role="main"></div>
-  <script>
-     
-     // Set  the CSS rules.
-     const styleSet = window.WebChat.createStyleSet({
-         bubbleBackground: 'rgba(0, 0, 255, .1)',
-         bubbleFromUserBackground: 'rgba(0, 255, 0, .1)',
-         rootHeight: '100%',
-         rootWidth: '50%',
-         backgroundColor: 'paleturquoise'
-      });
-
-      // After generated, you can modify the CSS rules.
-      // Change font family and weight. 
-      styleSet.textContent = {
-         ...styleSet.textContent,
-         fontFamily: "'Comic Sans MS', 'Arial', sans-serif",
-         fontWeight: 'bold'
-      };
-
-    // Set the avatar options. 
-     const avatarOptions = {
-         botAvatarInitials: 'BF',
-         userAvatarInitials: 'WC'
-         };
-
-    window.WebChat.renderWebChat({
-      directLine: window.WebChat.createDirectLine({
-          token: 'r5Mc5AWMSfI.FwwMuSaOqY2oGkAv-XljmjnBOzJ3TxWngyIOPkz4mmc'}),
-      styleSet,
-      styleOptions: avatarOptions
-    }, document.getElementById('webchat'));
+<html>
+    <head>
+        <title>HEALTH-CARE BOT</title>
+        <style>
+            h1{
+                text-align:center;
+                color:white;
+            }
+            
+        </style>
     
-  </script>
-    </div>
-</body>
+    </head>
+    <body style="background-image:url(helth.jpg)" >
+        <h1 >
+            
+                Know_Health
+            
+        </h1>
+        <center>
+       
+    
+            <iframe src="chatbot.html" height="200" width="300" title="Iframe Example"></iframe>
+    </center>
+   
+    </body>
+</html>
